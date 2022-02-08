@@ -1,0 +1,33 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ÅäÍØúÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÈÔƒ³ıÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¾
+U
+java:S1854>":Remove this useless assignment to local variable "regime".(Ç÷ëÂúÿÿÿÿ
+1
+java:S3626N"Remove this redundant jump.(ÉŠ©ƒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”„ìøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°ìâš
+7	java:S131""Add a default case to this switch.(ÏÍæã
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(Ú³Î¸ûÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ë­Òó
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(Áõ¹ª
+F
+java:S1481;"+Remove this unused "regime" local variable.(å¤¯øÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.( ´öòúÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(êŸ’»
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(×ñÎüÿÿÿÿ
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(ï§¸
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(‚³éø
+E
+java:S1066K"/Merge this if statement with the enclosing one.(¥ŠÆâ
+E
+java:S1066L"/Merge this if statement with the enclosing one.(š±óò
+M
+java:S26293"7Use the built-in formatting to construct this argument.(Ş—îï
+L
+java:S26298"7Use the built-in formatting to construct this argument.(Ú®™
+R
+java:S2629F"7Use the built-in formatting to construct this argument.(Ö¦–’ùÿÿÿÿ
