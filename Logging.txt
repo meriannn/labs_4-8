@@ -1,0 +1,6 @@
+Feb 07, 2022 6:23:47 PM main.MenuManaging mainMenuText
+INFO: Print main menu
+Feb 07, 2022 6:24:13 PM command.RegulateCommands certainty
+INFO: user choose search by parameters
+Feb 07, 2022 6:24:13 PM main.MenuManaging mainMenuText
+INFO: Print main menu
